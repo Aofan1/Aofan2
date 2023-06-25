@@ -22,7 +22,7 @@
 }
 
 .a1{
-  font-size: 60px ;
+  font-size: 40px ;
   color: #ffd547ff ;
   text-decoration: none ;
   border-radius: 25% ;
@@ -35,7 +35,7 @@
 
 .a1:hover{
   background-color: #c269c3ff ;
-  font-size: 48px ;
+  font-size: 30px ;
 }
 
 .del1{
@@ -46,7 +46,7 @@
   margin-bottom: 55px ;
   border-radius: 7px ;
   width: 65% ;
-  font-size: 40px ;
+  font-size: 17px ;
 }
 
 .del2{
