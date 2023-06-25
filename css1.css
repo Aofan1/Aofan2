@@ -22,7 +22,7 @@
 }
 
 .a1{
-  font-size: 40px ;
+  font-size: 70px ;
   color: #ffd547ff ;
   text-decoration: none ;
   border-radius: 25% ;
@@ -35,7 +35,7 @@
 
 .a1:hover{
   background-color: #c269c3ff ;
-  font-size: 30px ;
+  font-size: 60px ;
 }
 
 .del1{
@@ -45,17 +45,20 @@
   padding-top: 10px ;
   margin-bottom: 55px ;
   border-radius: 7px ;
-  width: 65% ;
-  font-size: 17px ;
+  width: 6% ;
+  font-size: 40px ;
 }
 
 .del2{
+  text-align: right ;
+  font-size: 37px ;
   color: #fff;
   background-color: #5e385eff ;
-  border: 2px #fbde00 solid ;
+  border: 4px #fbde00 solid ;
   border-radius: 7px ;
-  margin: 6px ;
-  padding: 1px ;
+  margin: 12px ;
+  padding: 3px ;
+  padding-left: 10px ;
 }
 
 .fr{
