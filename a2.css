@@ -52,7 +52,9 @@ body{
   
 }
 
-
+li{
+  list-style-type: decimal ;
+}
 
 
 a{
